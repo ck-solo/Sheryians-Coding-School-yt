@@ -4,7 +4,7 @@ import Center from './Center'
 
 const Section1 = () => {
   return (
-    <div>
+    <div className='p-10'>
         <Navbar />
         <Center />
 

@@ -4,7 +4,7 @@ import Right from './Right'
 
 const Center = () => {
   return (
-    <div className='h-90vh flex'>
+    <div className='h-100vh flex '>
         <Left />
         <Right />
     </div>
