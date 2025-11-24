@@ -2,7 +2,7 @@ import React from "react";
 
 const Left = () => {
   return (
-    <div className=" bg-red-500  h-[80vh] mt-10 flex flex-col justify-between ">
+    <div className="h-full mt-5   flex flex-col justify-between ">
       <div>
         <h1 className="text-5xl font-semibold font-[Gilroy] px-4">
           Prospective <br />

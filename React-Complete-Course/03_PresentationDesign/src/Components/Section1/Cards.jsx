@@ -4,7 +4,7 @@ import Right from './Right'
 
 const Cards = () => {
   return (
-    <div className='flex bg-red-700 justify-between items-center'>
+    <div className=' h-[80vh]  flex bg-red-700 justify-between items-center'>
       <Left />
       <Right />
     </div>

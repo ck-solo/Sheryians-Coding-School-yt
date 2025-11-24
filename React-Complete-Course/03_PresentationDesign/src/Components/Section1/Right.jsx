@@ -1,17 +1,12 @@
 import React from 'react'
-import RightContent from './RightContent'
+import RightCard from '../../../../03_PresentationDesign/src/Components/Section1/RightCard'
 
 const Right = () => {
   return (
-    <div className='h-full mt-10 flex overflow-x-auto flex-nowrap gap-10 w-2/3 '>
-      <RightContent />
-      <RightContent />
-      <RightContent />
-      <RightContent />
-      <RightContent />
-              
-      </div>
- 
+    <div className=' w-3/4 h-full flex'>
+        <RightCard />
+        
+    </div>
   )
 }
 

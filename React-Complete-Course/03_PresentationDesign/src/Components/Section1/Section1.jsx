@@ -4,10 +4,9 @@ import Center from './Center'
 
 const Section1 = () => {
   return (
-    <div className='p-10 overflow-hidden h-screen w-full'>
+    <div className='h-screen w-full bg-blue-900 p-10 '>
         <Navbar />
         <Center />
-
     </div>
   )
 }
