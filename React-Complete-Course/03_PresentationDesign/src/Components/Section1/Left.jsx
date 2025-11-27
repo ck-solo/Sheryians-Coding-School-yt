@@ -15,7 +15,7 @@ const Left = () => {
           exercitationem. Ea modi aut aperiam, 
         </p>
        </div>
-      <i className="ri-arrow-right-up-line text-7xl"></i>
+      <i className="ri-arrow-right-up-line text-8xl"></i>
       </div>
   );
 };
