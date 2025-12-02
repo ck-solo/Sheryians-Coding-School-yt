@@ -1,12 +1,14 @@
 import React from 'react'
 import Function from './Components/Function'
+import UseState from './Components/Hooks/UseState'
 
 const App = () => {
 
  
   return (
     <div>
-      <Function />
+      {/* <Function /> */}
+      <UseState />
     </div>
   )
 }

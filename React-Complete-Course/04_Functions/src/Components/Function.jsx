@@ -5,8 +5,9 @@ const Function = () => {
     console.log(val)
   }
   return (
-   <div className='p-10 border-white'>
+   <div className='p-10 border-white '>
      <input 
+     className='border-white bg-blue-400 text-black font-bold'
      onChange={function(elem){
       inputChange(elem.target.value)
      }}
