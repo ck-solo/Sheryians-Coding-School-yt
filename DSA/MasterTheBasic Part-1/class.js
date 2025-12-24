@@ -66,3 +66,16 @@ console.log(num1 + num1); // 22
 let dec = 20;
 dec--; // 19   
 console.log(dec - dec--); // 19 - 19 = 0
+
+
+
+// Question 
+// Q1.  Calculate the area and paramter of rectangle
+
+let length = 10;
+let width = 20;
+area = length * width;
+console.log(area);
+
+perimeter = 2 * (length + width);
+console.log(perimeter);

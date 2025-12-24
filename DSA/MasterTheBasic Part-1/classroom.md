@@ -82,3 +82,14 @@ let b = 10;
 b--; // 9   
 console.log(b);
 
+
+Math functions
+console.log(Math.abs(-10)); // 10
+console.log(Math.ceil(3.7)); // 4
+console.log(Math.floor(3.7)); // 3
+console.log(Math.round(3.7)); // 4
+console.log(Math.sqrt(25)); // 5
+console.log(Math.max(5, 10)); // 10
+console.log(Math.min(5, 10)); // 5
+
+Q.
